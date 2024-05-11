@@ -12,7 +12,7 @@ To write a python program to perform stop and wait protocol
 Developed by: YUVARAJ V
 
 Register Number: 212223230252
- ## client:
+ ## CLIENT:
  ```
 import socket
 s=socket.socket()
