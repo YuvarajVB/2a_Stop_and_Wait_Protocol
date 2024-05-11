@@ -31,7 +31,7 @@ while True:
    break
 ```
 
-##SERVER:
+## SERVER:
 ```
 import socket
 s=socket.socket()
